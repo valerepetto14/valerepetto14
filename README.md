@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/98335785/165193846-3a643e13-394b-458e-b239-6e2ca5166bad.jpg">
+<img src="https://user-images.githubusercontent.com/98335785/165194366-2367dd63-ccb8-40ce-abb1-57d195858e72.jpg">
 
 ### Social media:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/valerepetto14)
