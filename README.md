@@ -1,5 +1,4 @@
-# Hi ,Welcome to my GitHub
-
+<img src="https://user-images.githubusercontent.com/98335785/165193846-3a643e13-394b-458e-b239-6e2ca5166bad.jpg">
 
 ### Social media:
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/valerepetto14)
@@ -12,11 +11,10 @@
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  
-</div>
-<br/>
-
-<br><br>
-<a href="https://github.com/ankitwarbhe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerepetto14&theme=dark">
-</a>
+  <br>
+  <br>
+  <div>
+    <a href="https://github.com/ankitwarbhe">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valerepetto14&theme=dark">
+    </a>
+  </div>
