@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/98335785/165194366-2367dd63-ccb8-40ce-abb1-57d195858e72.jpg">
 
 ### Social media:
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://github.com/valerepetto14)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/valentin-repetto-6aa6711a0/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/valerepetto14/)
 
 
